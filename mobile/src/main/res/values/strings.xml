@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NepalWatchFace</string>
+    <string name="title_activity_nepal_analog_card_bounds_watch_face_config">
+        NepalAnalogCardBoundsWatchFaceConfigActivity
+    </string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="config_text">This is config for Nepal watch face</string>
+</resources>
